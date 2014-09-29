@@ -1,8 +1,41 @@
+/*Kristin DeCarlo
+
+Pink- #DB8DB7
+Ocean blue- #5B72E8
+Purple- #900DFF
+
+*/
+
+header{
+    background-color: #dddddd;
+}
+    
+h1{
+    color: #DB8DB7;
+}
+
+.color1{
+    width: 200px;
+    height: 200px;
+    background-color: #DB8DB7;
+}
+
+.color2{
+    width: 200px;
+    height: 200px;
+    background-color: #5B72E8;
+}
+
+.color3{
+    width: 200px;
+    height: 200px;
+    background-color: #900DFF;
+}
 
  body{
-        background-color: purple;
-            color: white;
+            color: purple;
+            width: 800px;
+            margin-left: auto;
+            margin-right: auto;
         }
-        a{
-            color: green;
-        }
+       
