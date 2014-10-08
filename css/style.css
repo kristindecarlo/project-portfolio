@@ -1,3 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+font-family: 'Raleway', sans-serif;
+
 /*Kristin DeCarlo
 
 Pink- #DB8DB7
@@ -12,6 +16,7 @@ header{
     
 h1{
     color: #DB8DB7;
+    font-family: 'Raleway', sans-serif;
 }
 
 .colorsquare{
@@ -50,5 +55,10 @@ h1{
             width: 800px;
             margin-left: auto;
             margin-right: auto;
+            font-family: gill sans;
         }
        
+.site-footer a{
+font-size: 2em;
+color: green;
+}
