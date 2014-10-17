@@ -59,6 +59,10 @@ h1{
         }
        
 .site-footer a{
-font-size: 2em;
-color: green;
+font-size: 1em;
+color: purple;
+}
+
+.site-footer a:hover{
+color: pink;
 }
