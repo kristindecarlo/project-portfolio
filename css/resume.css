@@ -1,0 +1,40 @@
+
+     h1{ 
+        color: #00cccc;
+            text-align: center; 
+         font-family: 'Titillium Web', sans-serif;
+         padding: .6em 0;
+         background-color: white;
+         opacity: .6;
+         border-bottom-style: double;
+         border-top-style: double;
+         border-left-style: double;
+         border-right-style: double;
+    }
+ 
+h3{
+    text-align: center;
+    color: #00cccc;
+    font-size:20px;
+    font-family: 'Titillium Web', sans-serif;
+    padding: .5em 0;
+}
+
+h4{
+    font-size: 17.4px;
+    color: #9999ff;
+    font-family: 'Titillium Web', sans-serif;
+}
+        
+
+h5{
+    font-size: 17px;
+}
+        body{
+                color: #663399;
+            background-image: url('../images/light_grey.png');
+            font-family: 'Titillium Web', sans-serif;
+            padding: 3em 0;
+            margin: 0 40px;
+            /* i had my margins showing up before, but now they are gone*/
+        }
