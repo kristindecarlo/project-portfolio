@@ -1,0 +1,25 @@
+body{
+    border-bottom-style: double;
+         border-top-style: double;
+         border-left-style: double;
+         border-right-style: double;
+     padding: .6em 0;
+      margin: 0 40px;
+    background-image: url('../images/light_grey.png');
+}
+
+.video1{
+    color: blue;
+    font-family: sans-serif;
+}
+
+.video2{
+    color: green;
+    font-family: sans-serif;
+}
+
+.video3{
+    color: purple;
+    font-family: sans-serif
+}
+
