@@ -1,3 +1,9 @@
+h1{
+    text-align: center;
+    color: pink;
+    font-family: cursive;
+}
+
 body{
     border-bottom-style: double;
          border-top-style: double;
