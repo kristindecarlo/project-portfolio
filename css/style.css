@@ -20,8 +20,8 @@ h1{
 }
 
 .colorsquare{
-    width: 200px;
-    height: 200px;
+    width: 140px;
+    height: 140px;
     float: left;
 }
 
@@ -31,14 +31,17 @@ h1{
 
 .color1{
     background-color: #DB8DB7;
+    margin: 2%;
 }
 
 .color2{
     background-color: #5B72E8;
+    margin: 2%;
 }
 
 .color3{
     background-color: #900DFF;
+    margin: 2%;
 }
 
 .clearfix:before,
@@ -56,6 +59,7 @@ h1{
             margin-left: auto;
             margin-right: auto;
             font-family: gill sans;
+      background-image: url('../images/light_grey.png');
         }
        
 .site-footer a{
@@ -65,4 +69,20 @@ color: purple;
 
 .site-footer a:hover{
 color: pink;
+}
+
+.main{
+    width: 64%;
+        float: left;
+    border-style: solid;
+}
+.sidebar{
+    width: 30%;
+    float: right;
+    border-style: solid;
+}
+
+.talk{
+    border-style: solid;
+    margin: 2%;
 }
