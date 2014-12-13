@@ -85,4 +85,10 @@ color: pink;
 .talk{
     border-style: solid;
     margin: 2%;
+    text-align: center;
 }
+
+ul{
+    list-style-type: none;
+}
+
